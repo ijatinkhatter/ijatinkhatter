@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jatin Khatter</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-<img align="right" width="250px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding-gif">
+<img align="right" width="350px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding-gif">
 
 <p align="left">
   <img
@@ -10,12 +10,11 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development** - 👨‍💻 All of my
-projects are available at
-[https://github.com/ijatinkhatter](https://github.com/ijatinkhatter) - 📫 How to
-reach me **codexjatin@gmail.com** - 📄 Know about my experiences
-[https://github.com/ijatinkhatter](https://github.com/ijatinkhatter) - ⚡ Fun
-fact **I'm a good Photographer too📸**
+ <p>🌱 I’m currently learning <strong> <em>Full Stack Web Development</em> </strong></p>
+ <p>👨‍💻 All of my projects are available at : </p> 
+ <p>📫 How to reach me <strong> <em>codexjatin@gmail.com</em> </strong> </p>
+ <p>📄 Know about my experiences : </p>
+ <p>⚡ Fun fact <strong><em>I'm a good Photographer too 📸</em></strong></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
