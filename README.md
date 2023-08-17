@@ -1,3 +1,4 @@
+![logo](https://github.com/ijatinkhatter/ijatinkhatter/blob/main/CODE%20X%20JATIN%20(4).png)
 <h1 align="center">Hi 👋, I'm Jatin Khatter</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
