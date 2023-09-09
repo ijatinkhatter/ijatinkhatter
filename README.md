@@ -11,7 +11,7 @@
   />
 </p>
 
- <p>🌱 I’m currently learning <strong> <em>Full Stack Web Development</em> </strong></p>
+ <p>🌱 I’m currently learning <strong> <em>Front-End Web Development</em> </strong></p>
  <p>👨‍💻 All of my projects are available at : </p> 
  <p>📫 How to reach me <strong> <em>codexjatin@gmail.com</em> </strong> </p>
  <p>📄 Know about my experiences : </p>
@@ -27,7 +27,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://linkedin.com/in/jatin-khatter-032178285" target="blank"
+  <a href="https://www.linkedin.com/in/jatin-khatter-032178285/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -35,7 +35,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://instagram.com/codexjatin" target="blank"
+  <a href="https://www.instagram.com/codexwarrior/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
@@ -43,7 +43,7 @@
       height="30"
       width="40"
   /></a>
-  <a
+<!--   <a
     href="https://www.youtube.com/channel/UCV9sFkhIvxJEKIuEO2O99bA"
     target="blank"
     ><img
@@ -52,23 +52,23 @@
       alt="https://www.youtube.com/channel/ucv9sfkhivxjekiueo2o99ba"
       height="30"
       width="40"
-  /></a>
-  <a href="https://www.hackerrank.com/codexjatin" target="blank"
+  /></a> -->
+<!--   <a href="https://www.hackerrank.com/codexjatin" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="codexjatin"
       height="30"
       width="40"
-  /></a>
-  <a href="https://www.leetcode.com/jatin_khatter" target="blank"
+  /></a> -->
+<!--   <a href="https://www.leetcode.com/jatin_khatter" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
       alt="jatin_khatter"
       height="30"
       width="40"
-  /></a>
+  /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -133,30 +133,30 @@
       height="40"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<!--   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  </a> -->
+<!--   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  </a> -->
+<!--   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express"
       width="40"
       height="40"
     />
-  </a>
+  </a> -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
