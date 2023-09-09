@@ -12,9 +12,9 @@
 </p>
 
  <p>🌱 I’m currently learning <strong> <em>Front-End Web Development</em> </strong></p>
- <p>👨‍💻 All of my projects are available at : </p> 
+ <p>👨‍💻 All of my projects are available at : <a href="https://ijatinkhatter.github.io/Personal-Portfolio/" target="blank"></a> </p> 
  <p>📫 How to reach me <strong> <em>codexjatin@gmail.com</em> </strong> </p>
- <p>📄 Know about my experiences : </p>
+<!--  <p>📄 Know about my experiences : </p> -->
  <p>⚡ Fun fact <strong><em>I'm a good Photographer too 📸</em></strong></p>
 
 <h3 align="left">Connect with me:</h3>
